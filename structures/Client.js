@@ -1,10 +1,10 @@
-const { Client: _Client, Collection, Constants: { APIErrors } } = require('discord.js');
+const { Client, Collection, Constants: { APIErrors } } = require('discord.js');
 const { join, parse } = require('path');
 const Settings = require('./Settings');
 const Sequelize = require('sequelize');
 const fs = require('fs');
 
-class Client extends _Client {
+module.exports = class extends Client {
 	constructor(options = {}) {
 		super({
 			db: null,
@@ -185,5 +185,3 @@ class Client extends _Client {
 		}
 	}
 }
-
-module.exports = Client;
