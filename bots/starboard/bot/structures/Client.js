@@ -34,7 +34,7 @@ class StarboardClient extends Client {
 			.setAuthor(
 				`${message.author.tag}${minimal ? ` (${message.author.id})` : ''} in #${message.channel.name}`,
 				message.author.displayAvatarURL(),
-				`${this.config.site}/message/${message.id}`
+				`https://discordapp.com/channels/${message.guild.id}/${message.channel.id}/${message.id}`
 			)
 			.setColor(color)
 			.setDescription(message.content)
