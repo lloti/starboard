@@ -57,7 +57,7 @@
 	"commands.help.phrase.aliases": "Aliassen",
 
 	"commands.fix.name": "oplossing",
-	"commands.fix.usage": "{message ID or message link}",
+	"commands.fix.usage": "{bericht-ID of bericht-link}",
 	"commands.fix.description": "Lost problemen met de sterrentelling van een bericht op.",
 	"commands.fix.phrase.id": "Ongeldige berichten-ID of -link opgegeven.",
 	"commands.fix.phrase.permissions": "Ik heb geen toestemming om berichten van dat kanaal te lezen.",
@@ -146,5 +146,5 @@
 	"settings.to_key.minimal": "minimaal",
 	"settings.to_key.removebotstars": "verwijder_bot_sterren",
 	"settings.to_key.savedeletedmessages": "sla_verwijderde_berichten_op",
-	"settings.to_key.blockmode": "blokkeer_modus"
+	"settings.to_key.blockmode": "block_mode"
 }
