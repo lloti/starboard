@@ -136,15 +136,14 @@
 	"settings.block_mode": "Blokkeer-modus",
 
 	"settings.to_key.prefix": "prefix",
-	"settings.to_key.language": "taal",
+	"settings.to_key.taal": "language",
 	"settings.to_key.minimum": "minimum",
-	"settings.to_key.selfstar": "zelf_ster",
+	"settings.to_key.zelfster": "self_star",
 	"settings.to_key.emoji": "emoji",
-	"settings.to_key.channel": "kanaal",
-	"settings.to_key.nsfwchannel": "nsfw_kanaal",
-	"settings.to_key.channelnsfw": "nsfw_kanaal",
-	"settings.to_key.minimal": "minimaal",
-	"settings.to_key.removebotstars": "verwijder_bot_sterren",
-	"settings.to_key.savedeletedmessages": "sla_verwijderde_berichten_op",
+	"settings.to_key.kanaal": "channel",
+	"settings.to_key.nsfwkanaal": "nsfw_channel",
+	"settings.to_key.minimaal": "minimal",
+	"settings.to_key.verwijderbotsterren": "remove_bot_stars",
+	"settings.to_key.slaverwijderdeberichtenop": "save_deleted_messages",
 	"settings.to_key.blockmode": "block_mode"
 }
