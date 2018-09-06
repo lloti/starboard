@@ -1,9 +1,9 @@
 {
-	"error": "An error occurred while executing this command. My owner will be looking into it as soon as they can!",
+	"error": "Er is een fout opgetreden tijdens het uitvoeren van dit commando. Mijn eigenaar zal dit zo spoedig mogelijk nakijken!",
 
 	"message.content": "Content",
-	"message.author": "Author",
-	"message.channel": "Channel",
+	"message.author": "Auteur",
+	"message.channel": "Kanaal",
 
 	"permissions.CREATE_INSTANT_INVITE": "Creëer Directe Uitnodiging",
 	"permissions.KICK_MEMBERS": "Verwijder Leden",
