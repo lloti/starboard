@@ -48,8 +48,8 @@
 
 	"commands.reload-locales.name": "reload-locales",
 	"commands.reload-locales.aliases": ["reloadlocales"],
-	"commands.reload-locales.description": "Leest alle lokale bestanden.",
-	"commands.reload-locales.phrase.done": "Lokale bestanden succesvol uitgelezen...",
+	"commands.reload-locales.description": "Reads all locale files.",
+	"commands.reload-locales.phrase.done": "Successfully read all locale files.",
 
 	"commands.help.name": "help",
 	"commands.help.description": "Een lijst met alle commando's met uitleg.",
