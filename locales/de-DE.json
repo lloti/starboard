@@ -1,6 +1,11 @@
 {
 	"error": "Während der Ausführung des Befehls ist ein Fehler aufgetreten. Mein Besitzer schaut sich das an sobald er kann!",
 
+	"list.or.prefix": "entweder ",
+	"list.or.double": "%s oder %s",
+	"list.or.seperator": ", ",
+	"list.or.finalSeperator": ", oder ",
+
 	"message.content": "Inhalt",
 	"message.author": "Autor",
 	"message.channel": "Kanal",
@@ -83,6 +88,7 @@
 	"commands.block.usage": "[hinzufügen|entfernen] [@Mitglied|#Kanal|alle]...",
 	"commands.block.aliases": ["whitelist", "blacklist", "blocks"],
 	"commands.block.description": "Blockt ein Mitglied oder einen Kanal.",
+	"commands.block.phrase.action": "Aktion",
 	"commands.block.phrase.missing": "Du musst mindestens ein Mitglied oder einen Kanal angeben.",
 	"commands.block.phrase.add": "hinzufügen",
 	"commands.block.phrase.remove": "entfernen",
@@ -107,7 +113,7 @@
 	"commands.config.aliases": ["einstellung", "einstellungen", "konfig"],
 
 	"settings.restrictions.max_length": "%s darf nicht mehr als %d Zeichen haben.",
-	"settings.restrictions.one_of": "%s muss eins von %s sein",
+	"settings.restrictions.one_of": "%s muss %s sein",
 	"settings.restrictions.number": "%s muss eine Zahl sein.",
 	"settings.restrictions.min": "%s darf nicht weniger als %d sein.",
 	"settings.restrictions.max": "%s darf nicht größer als %d sein.",
