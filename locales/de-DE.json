@@ -146,18 +146,15 @@
 	"settings.random_star_probability": "Zufällige-Stern-Wahrscheinlichkeit",
 
 	"settings.to_key.prefix": "prefix",
-	"settings.to_key.language": "sprache",
+	"settings.to_key.sprache": "language",
 	"settings.to_key.minimum": "minimum",
-	"settings.to_key.selfstar": "selbst_stern",
+	"settings.to_key.selbststern": "self_star",
 	"settings.to_key.emoji": "emoji",
-	"settings.to_key.channel": "kanal",
-	"settings.to_key.nsfwchannel": "nsfw_kanal",
-	"settings.to_key.channelnsfw": "nsfw_kanal",
+	"settings.to_key.kanal": "channel",
+	"settings.to_key.nsfwkanal": "nsfw_channel",
 	"settings.to_key.minimal": "minimal",
-	"settings.to_key.removebotstars": "entferne_bot_sterne",
-	"settings.to_key.savedeletedmessages": "speichere_gelöschte_nachrichten",
-	"settings.to_key.blockmode": "block_modus",
-	"settings.to_key.starprobability": "zufällige_stern_wahrscheinlichkeit",
-	"settings.to_key.randomstar": "zufällige_stern_wahrscheinlichkeit",
-	"settings.to_key.randomstarprobability": "zufällige_stern_wahrscheinlichkeit"
+	"settings.to_key.entfernebotsterne": "remove_bot_stars",
+	"settings.to_key.speicheregelöschtenachrichten": "save_deleted_messages",
+	"settings.to_key.blockmodus": "block_mode",
+	"settings.to_key.zufälligesternwahrscheinlichkeit": "random_star_probability"
 }
