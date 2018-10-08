@@ -53,11 +53,6 @@
 	"commands.ping.phrases.pinging": "ping...",
 	"commands.ping.phrases.done": "Pong!\nAntwortzeit: %dms",
 
-	"commands.reload-locales.name": "lokalisierungen-laden",
-	"commands.reload-locales.aliases": ["lade-lokalisierung"],
-	"commands.reload-locales.description": "Lade Lokalisierungsdateien.",
-	"commands.reload-locales.phrase.done": "Lokalisierungsdateien erfolgreich geladen.",
-
 	"commands.help.name": "hilfe",
 	"commands.help.description": "Zeigt und erklärt alle Befehle.",
 	"commands.help.phrase.commands": "Befehle",
