@@ -10,6 +10,8 @@
 	"message.author": "Autor",
 	"message.channel": "Kanal",
 
+	"starboard.self_star.warning": "%s, du kannst deiner eigenen Nachricht keinen Stern geben.",
+
 	"permissions.CREATE_INSTANT_INVITE": "Soforteinladung erstellen",
 	"permissions.KICK_MEMBERS": "Mitglieder kicken",
 	"permissions.BAN_MEMBERS": "Mitglieder bannen",
@@ -61,11 +63,17 @@
 	"commands.help.phrase.commands": "Befehle",
 	"commands.help.phrase.aliases": "Alternative Namen",
 
+	"commands.setup.name": "Einrichtung",
+	"commands.setup.usage": "[nsfw]",
+	"commands.setup.description": "Erstellt einen Sternbrettkanal (optional NSFW) mit den entsprechenden Berechtigungen.",
+	"commands.setup.phrase.exists": "Es gibt bereits einen Sternbrettkanal in %s.",
+	"commands.setup.phrase.done": "Ein Sternbrettkanal wurde in %s erstellt.",
+
 	"commands.fix.name": "berichtigen",
-	"commands.fix.usage": "{Nachrichten ID oder Nachrichten Link}",
+	"commands.fix.usage": "{Nachrichten ID oder Nachrichten Verlinkung}",
 	"commands.fix.description": "Berichtigt die Sternenanzahl einer Nachricht.",
 	"commands.fix.phrase.id": "Ungültige/r Nachrichten ID/Link angegeben.",
-	"commands.fix.phrase.permissions": "Mir ist es nicht erlaubt Nachrichten in diesem Kanal zu lesen.",
+	"commands.fix.phrase.permissions": "Ich kann in diesem Kanal keine Nachrichten lesen.",
 	"commands.fix.phrase.unknown_message": "Ich habe keine Nachricht mit dieser ID/ diesem Link gefunden.",
 	"commands.fix.phrase.done": "Nachricht berichtigt.",
 
@@ -76,7 +84,7 @@
 	"commands.stats.phrase.system_value": "• Betriebszeit: %s\n• Speicher: %s\n• CPUs: %s\n• [Go](https://golang.org): %s\n• [DiscordGo](https://github.com/bwmarrin/discordgo): %s",
 	"commands.stats.phrase.bot": "Bot",
 	"commands.stats.phrase.bot_value": "• Fragmente: %s\n• Server: %s\n• Kanäle: %s\n• Mitglieder: %s",
-	"commands.stats.phrase.starboard": "Sternenbrett",
+	"commands.stats.phrase.starboard": "Sternbrett",
 	"commands.stats.phrase.starboard_value": "• Nachrichten: %s\n• Sterne: %s",
 
 	"commands.invite.name": "einladen",
@@ -136,6 +144,7 @@
 	"settings.language": "Sprache",
 	"settings.minimum": "Minimum",
 	"settings.self_star": "Selbst-Stern",
+	"settings.self_star_warning": "Selbst-Stern-Warnung",
 	"settings.emoji": "Emoji",
 	"settings.channel": "Kanal",
 	"settings.nsfw_channel": "NSFW-Kanal",
@@ -149,6 +158,7 @@
 	"settings.to_key.sprache": "language",
 	"settings.to_key.minimum": "minimum",
 	"settings.to_key.selbststern": "self_star",
+	"setinngs.to_key.selbststernwarnung": "self_star_warning",
 	"settings.to_key.emoji": "emoji",
 	"settings.to_key.kanal": "channel",
 	"settings.to_key.nsfwkanal": "nsfw_channel",
